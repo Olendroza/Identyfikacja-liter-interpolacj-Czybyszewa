@@ -1,0 +1,14 @@
+C:\Users\Piotr\Documents\projekty vs2017\Projektstudia\Projekt studia\Projekt studia\bin\Debug\Projekt studia.exe.config
+C:\Users\Piotr\Documents\projekty vs2017\Projektstudia\Projekt studia\Projekt studia\bin\Debug\Projekt studia.exe
+C:\Users\Piotr\Documents\projekty vs2017\Projektstudia\Projekt studia\Projekt studia\bin\Debug\Projekt studia.pdb
+C:\Users\Piotr\Documents\projekty vs2017\Projektstudia\Projekt studia\Projekt studia\obj\Debug\Projekt studia.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Documents\projekty vs2017\Projektstudia\Projekt studia\Projekt studia\obj\Debug\Projekt studia.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Documents\projekty vs2017\Projektstudia\Projekt studia\Projekt studia\obj\Debug\Projekt studia.exe
+C:\Users\Piotr\Documents\projekty vs2017\Projektstudia\Projekt studia\Projekt studia\obj\Debug\Projekt studia.pdb
+C:\piotr plik\studia\projekty vs2017\Projektstudia\Projekt studia\Projekt studia\bin\Debug\Projekt studia.exe.config
+C:\piotr plik\studia\projekty vs2017\Projektstudia\Projekt studia\Projekt studia\bin\Debug\Projekt studia.exe
+C:\piotr plik\studia\projekty vs2017\Projektstudia\Projekt studia\Projekt studia\bin\Debug\Projekt studia.pdb
+C:\piotr plik\studia\projekty vs2017\Projektstudia\Projekt studia\Projekt studia\obj\Debug\Projekt studia.csprojAssemblyReference.cache
+C:\piotr plik\studia\projekty vs2017\Projektstudia\Projekt studia\Projekt studia\obj\Debug\Projekt studia.csproj.CoreCompileInputs.cache
+C:\piotr plik\studia\projekty vs2017\Projektstudia\Projekt studia\Projekt studia\obj\Debug\Projekt studia.exe
+C:\piotr plik\studia\projekty vs2017\Projektstudia\Projekt studia\Projekt studia\obj\Debug\Projekt studia.pdb
